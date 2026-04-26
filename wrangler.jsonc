@@ -3,5 +3,8 @@
   "name": "dyadvex-prod",
   "compatibility_date": "2025-09-24",
   "compatibility_flags": ["nodejs_compat"],
-  "account_id": "138759781fccd7ce5d15370b03831f60"
+  "account_id": "138759781fccd7ce5d15370b03831f60",
+  "assets": {
+    "directory": "./dist/client"
+  }
 }
